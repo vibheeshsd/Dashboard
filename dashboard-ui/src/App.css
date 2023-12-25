@@ -1,0 +1,50 @@
+.ant-select{
+  text-align:justify;
+  margin-left: 12px;
+  border-radius: 0.5rem;
+}
+.dashboard{
+  margin-left: 0.4%;
+}
+.line-wrapper{
+width: 95%;
+margin-top: 20px;
+margin-left: 30px;
+}
+.bar-wrapper{
+  width: 95%;
+  margin-left: 30px;
+  margin-top:20px;
+}
+.area-wrapper{
+  width: 100%;
+  margin-top: 20px;
+}
+.scatter-wrapper{
+  width: 55%;
+  margin-top: 20px;
+}
+.wrapper{
+  display: inline-flex;
+  width: 100%;
+}
+.line2-wrapper{
+  width: 95%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.pie-wrapper{
+  width: 45%;
+  margin-top: 20px;
+}
+
+.filter{
+  margin-top: 10px;
+  margin-left: 1.5%;
+}
+.error-wrapper{
+  margin-left: 2%;
+}
+.db-header{
+  margin-left: 1%;
+}
